@@ -1,7 +1,7 @@
 
 ### Quick Info
 Meeting Information:
-* Building: BBB
+* Building: Bob and Better Beyster Building (BBB)
 * Room: 4941
 * Time: 4:30pm - 6:30pm
 
