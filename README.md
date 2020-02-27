@@ -3,12 +3,12 @@
 Meeting Information:
 * Building: Bob and Better Beyster Building (BBB)
 * Room: 4941
-* Time: 4:30pm - 6:30pm
+* Time: Tuesdays from 4:30pm - 6:30pm
 
 ### Welcome to MinoriTeas!
 This is a weekly meeting intended to help underrepresented students and faculty within computing find community at the University of Michigan, hosted by [Chad Jenkins](https://web.eecs.umich.edu/~ocj/). We welcome students from any computing discipline (not just computer science!), including fields like mechanichal engineering, robotics, and aerospace engineering. 
 
-We meet weekly in the [Bob and Better Beyster Building](https://goo.gl/maps/XG6JvjCKCUYCFmCg8) (BBB), in room 4941 Beyster from 4:30pm-6:30pm. 
+We meet weekly in the [Bob and Better Beyster Building](https://goo.gl/maps/XG6JvjCKCUYCFmCg8) (BBB), in room 4941 Beyster Tuesdays from 4:30pm-6:30pm. 
 
 
 Periodically we host guest faculty in effort to improve communication and understanding between underrepresented students and faculty. Please email Chad @ <a href="mailto:socj@umich.edu" >ocj@umich.edu</a> if you are interested in participating.
