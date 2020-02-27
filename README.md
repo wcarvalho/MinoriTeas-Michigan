@@ -18,3 +18,8 @@ We hope to see you at our next meeting!
 ### Map with BBB
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11805.284332560563!2d-83.716372!3d42.2930138!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x72e1a6c1f9d48d42!2sBob%20and%20Betty%20Beyster%20Building!5e0!3m2!1sen!2sus!4v1582833221846!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
+### Resources
+
+1. [Pursuing a PhD/Graduate School](https://wcarvalho.github.io/Phd-Resources/) (writing resources, career advice, and funding resources)
+2. [Pursuing machine learning](https://wcarvalho.github.io/ML-Brain-Resources/) (including online courses in mathematics, AI, neuroscience, and cognitive science)
+3. [Metacademy](https://metacademy.org/) - organized resources and roadmaps for self-studying various topics led by Professor Roger Grosse @ The University of Toronto
