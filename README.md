@@ -20,6 +20,7 @@ We hope to see you at our next meeting!
 
 ### Resources
 
+1. [Metacademy](https://metacademy.org/) - organized resources and roadmaps for self-studying various topics led by Professor Roger Grosse @ The University of Toronto
 1. [Pursuing a PhD/Graduate School](https://wcarvalho.github.io/Phd-Resources/) (writing resources, career advice, and funding resources)
-2. [Pursuing machine learning](https://wcarvalho.github.io/ML-Brain-Resources/) (including online courses in mathematics, AI, neuroscience, and cognitive science)
-3. [Metacademy](https://metacademy.org/) - organized resources and roadmaps for self-studying various topics led by Professor Roger Grosse @ The University of Toronto
+1. [Pursuing machine learning](https://wcarvalho.github.io/ML-Brain-Resources/) (including online courses in mathematics, AI, neuroscience, and cognitive science)
+
