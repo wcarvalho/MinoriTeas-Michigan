@@ -4,7 +4,7 @@
   * Building: Bob and Better Beyster Building (BBB)
   * Room: 4941
   * Time: Tuesdays from 4:30pm - 6:30pm
-* Mailing List <a href="mailto:minoriteas@umich.eduedu" >minoriteas@umich.edu</a>
+* Mailing List: <a href="mailto:minoriteas@umich.eduedu" >minoriteas@umich.edu</a>
 
 ### Welcome to MinoriTeas!
 This is a weekly meeting intended to help underrepresented students and faculty within computing find community at the University of Michigan, hosted by [Chad Jenkins](https://web.eecs.umich.edu/~ocj/). We welcome students from any computing discipline (not just computer science!), including fields like mechanichal engineering, robotics, and aerospace engineering. 
